@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "name": "Aziz",
+        "workType": "Kassir"
+    },
+    {
+        "id": 1,
+        "name": "Laziz",
+        "workType": "Qorovul"
+    },
+    {
+        "id": 3,
+        "name": "Laziza",
+        "workType": "seller"
+    }
+]
